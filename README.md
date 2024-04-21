@@ -2,6 +2,19 @@
 
 > Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋
 
-## - Homework 1: Implement Draw Polygon
+## ✨ Homework 1: Implement Draw Polygon
+it is about how to draw the polygon using the pygame
+[![](https://img.youtube.com/vi/vJUR9wT7cRQ/0.jpg)](https://youtu.be/vJUR9wT7cRQ "Click to play on Youtube.com")
+[![](https://img.youtube.com/vi/6j8kaQvEtxg.jpg)](https://youtu.be/6j8kaQvEtxg "Just tap this!")
 
-[![]([https://img.youtube.com/vi/vJUR9wT7cRQ/0.jpg)](https://youtu.be/vJUR9wT7cRQ](https://youtu.be/6j8kaQvEtxg) "Just tap this!")
+## ✨ Homework 2: Implement 
+it is about how to draw the polygon using the pygame
+[![](https://img.youtube.com/vi/6j8kaQvEtxg.jpg)](https://youtu.be/6j8kaQvEtxg "Just tap this!")
+
+## 📝 Other test learning making
+<h3 align="left"> Test making Langrage interpolation in the graph
+
+## Author
+👤 **Krisnawati Melisa**
+- Github: [@mkrisnawati](https://github.com/mkrisnawati)
+- Medium: (https://melisakrisnawati.medium.com/)
