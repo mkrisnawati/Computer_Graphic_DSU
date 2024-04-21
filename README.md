@@ -3,7 +3,7 @@
 > Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋
 
 ## ✨ Homework 1: Implement Draw Polygon
-<h2 align="center"> it is about how to draw the polygon using the pygame
+<h4 align="left"> it is about how to draw the polygon using the pygame
 
 [![](https://img.youtube.com/vi/6j8kaQvEtxg.jpg)](https://youtu.be/6j8kaQvEtxg "Just tap this!")
 
