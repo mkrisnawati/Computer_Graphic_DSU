@@ -13,6 +13,7 @@ it is about how to draw the polygon using the pygame
 
 ## 📝 Other test learning making
 <h3 align="left"> Test making Langrage interpolation in the graph
+> you can tap the video down here to see the result, and the file name is test 4 langrage.py
 
 ## Author
 👤 **Krisnawati Melisa**
