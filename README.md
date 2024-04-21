@@ -4,7 +4,6 @@
 
 ## ✨ Homework 1: Implement Draw Polygon
 it is about how to draw the polygon using the pygame
-[![](https://img.youtube.com/vi/vJUR9wT7cRQ/0.jpg)](https://youtu.be/vJUR9wT7cRQ "Click to play on Youtube.com")
 [![](https://img.youtube.com/vi/6j8kaQvEtxg.jpg)](https://youtu.be/6j8kaQvEtxg "Just tap this!")
 
 ## ✨ Homework 2: Implement 
