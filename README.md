@@ -2,6 +2,8 @@
 
 > Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋
 
+가자 <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
+
 ## ✨ Homework 1: Implement Draw Polygon
 [![](https://img.youtube.com/vi/6j8kaQvEtxg/0.jpg)](https://youtu.be/6j8kaQvEtxg "Just tap this!")
 <h4 align="left"> it is about how to draw the polygon using the pygame </h4>
