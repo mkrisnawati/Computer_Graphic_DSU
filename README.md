@@ -7,9 +7,9 @@
 <h4 align="left"> it is about how to draw the polygon using the pygame </h4>
 
 ## ✨ Homework 2A part 1: Implement drawLine function with drawPoint 
+[![](https://img.youtube.com/vi/Y24idrFuce8/0.jpg)](https://youtu.be/Y24idrFuce8 "Just tap this!")
 <h4 align="left">By using this formula y = (y1-y0)/(x1-x0)*(x-x0)+y0
 to implementing drawLine function with drawPoint
-[![](https://img.youtube.com/vi/Y24idrFuce8/0.jpg)](https://youtu.be/Y24idrFuce8 "Just tap this!")
 
 ## ✨ Homework 2B part 2: Implement Coordinate free system 
 <h4 align="left">By using this formula a0*p0+a1*p1
