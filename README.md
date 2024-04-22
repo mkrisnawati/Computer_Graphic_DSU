@@ -12,9 +12,9 @@
 to implementing drawLine function with drawPoint
 
 ## ✨ Homework 2B part 2: Implement Coordinate free system 
-<h4 align="left">By using this formula a0*p0+a1*p1
-to implementing drawLine function with drawPoint
 [![](https://img.youtube.com/vi/WlOUprjuGjM/0.jpg)](https://youtu.be/WlOUprjuGjM "Just tap this!")
+<h4 align="left"> By using this formula a0*p0+a1*p1
+to implementing drawLine function with drawPoint
 
 ## ✨ Homework 3: Affine Combination
 <h4 align="left">to draw the Affine Combination
