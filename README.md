@@ -1,6 +1,5 @@
 <h1 align="center">Github Project for Computer Graphic Class @Dongseo University ^^</h1>
 
-![]()
 > Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋
 
 ## ✨ Homework 1: Implement Draw Polygon
