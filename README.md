@@ -43,4 +43,13 @@ to implementing drawLine function with drawPoint
 👤 **Krisnawati Melisa**
 - Github: [@mkrisnawati](https://github.com/mkrisnawati)
 - Medium: (https://melisakrisnawati.medium.com/)
-  <img src="https://www.icegif.com/kyojuro-rengoku-46" align="right">
+
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://i.imgur.com/tzYKRfd.gif">
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
