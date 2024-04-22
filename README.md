@@ -17,8 +17,8 @@ to implementing drawLine function with drawPoint
 to implementing drawLine function with drawPoint
 
 ## ✨ Homework 3: Affine Combination
-<h4 align="left">to draw the Affine Combination </h4>
 [![](https://img.youtube.com/vi/W-qo5dtT7wI/0.jpg)](https://youtu.be/W-qo5dtT7wI "Just tap this!")
+<h4 align="left">to draw the Affine Combination </h4>
 
 ## ✨ Homework 4-7
 [![](https://img.youtube.com/vi/Pyh4Ic3rUQY/0.jpg)](https://youtu.be/Pyh4Ic3rUQY "Just tap this!")
