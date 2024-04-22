@@ -8,30 +8,36 @@
 
 ## ✨ Homework 2A part 1: Implement drawLine function with drawPoint 
 [![](https://img.youtube.com/vi/Y24idrFuce8/0.jpg)](https://youtu.be/Y24idrFuce8 "Just tap this!")
-<h4 align="left">By using this formula y = (y1-y0)/(x1-x0)*(x-x0)+y0
+<h4 align="left">By using this formula y = (y1-y0)/(x1-x0)*(x-x0)+y0 </h4>
 to implementing drawLine function with drawPoint
 
 ## ✨ Homework 2B part 2: Implement Coordinate free system 
 [![](https://img.youtube.com/vi/WlOUprjuGjM/0.jpg)](https://youtu.be/WlOUprjuGjM "Just tap this!")
-<h4 align="left"> By using this formula a0*p0+a1*p1
+<h4 align="left"> By using this formula a0*p0+a1*p1 </h4>
 to implementing drawLine function with drawPoint
 
 ## ✨ Homework 3: Affine Combination
-<h4 align="left">to draw the Affine Combination
+<h4 align="left">to draw the Affine Combination </h4>
 [![](https://img.youtube.com/vi/W-qo5dtT7wI/0.jpg)](https://youtu.be/W-qo5dtT7wI "Just tap this!")
 
-video hw 4-7
-https://youtu.be/Pyh4Ic3rUQY
+## ✨ Homework 4-7
+[![](https://img.youtube.com/vi/Pyh4Ic3rUQY/0.jpg)](https://youtu.be/Pyh4Ic3rUQY "Just tap this!")
+<h4 align="left">Homework 4: Implement Lagrange Interpolation 
+Homework 5: Implement Cubic Bezier
+Homework 6: Implement Cubic Hermite Interpolation 
+Homework 7: Implement Cubic B-spline </h4>
 
-video tes langrage
-https://youtu.be/RfEAGcweBu0
-
-video tes bezier animation
 
 ## 📝 Other test learning making
+[![](https://img.youtube.com/vi/RfEAGcweBu0/0.jpg)](https://youtu.be/RfEAGcweBu0 "Just tap this!")
 <h3 align="left"> Test making Langrage interpolation in the graph
 > you can tap the video down here to see the result 
   to see the file name is "test 4 langrage.py"
+
+[![](https://img.youtube.com/vi/RfEAGcweBu0/0.jpg)](https://youtu.be/RfEAGcweBu0 "Just tap this!")
+<h3 align="left"> Test making animation bezier in the graph
+> you can tap the video down here to see the result 
+  to see the file name is "test 5 cubic bezier.py"
 
 ## Author
 👤 **Krisnawati Melisa**
