@@ -9,16 +9,16 @@ Welcome to my Github Repository that posting for Computer Graphic's Projects @DS
 ## ✨ Homework 2A part 1: Implement drawLine function with drawPoint 
 <h4 align="left">By using this formula y = (y1-y0)/(x1-x0)*(x-x0)+y0
 to implementing drawLine function with drawPoint
-[![](https://img.youtube.com/vi/Y24idrFuce8/0.jpg)](https://youtu.be/Y24idrFuce8) "Just tap this!")
+[![](https://img.youtube.com/vi/Y24idrFuce8/0.jpg)](https://youtu.be/Y24idrFuce8 "Just tap this!")
 
 ## ✨ Homework 2B part 2: Implement Coordinate free system 
 <h4 align="left">By using this formula a0*p0+a1*p1
 to implementing drawLine function with drawPoint
-[![](https://img.youtube.com/vi/WlOUprjuGjM/0.jpg)](https://youtu.be/WlOUprjuGjM) "Just tap this!")
+[![](https://img.youtube.com/vi/WlOUprjuGjM/0.jpg)](https://youtu.be/WlOUprjuGjM "Just tap this!")
 
 ## ✨ Homework 3: Affine Combination
 <h4 align="left">to draw the Affine Combination
-[![](https://img.youtube.com/vi/W-qo5dtT7wI/0.jpg)](https://youtu.be/W-qo5dtT7wI) "Just tap this!")
+[![](https://img.youtube.com/vi/W-qo5dtT7wI/0.jpg)](https://youtu.be/W-qo5dtT7wI "Just tap this!")
 
 video hw 4-7
 https://youtu.be/Pyh4Ic3rUQY
