@@ -2,7 +2,7 @@
 <h1 align="center"> Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋 </h1>
 <br>
 <div align="center">
-<img src="./image/rengokusmile.jpg height ="80px" width ="100%">
+<img src="Computer_Graphic_DSU/image/rengokusmile.jpg height ="80px" width ="100%">
 </div>
 
 가자 !!! ( ﾉ ﾟｰﾟ)ﾉ <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
