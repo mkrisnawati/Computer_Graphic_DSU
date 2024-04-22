@@ -1,4 +1,4 @@
-<body>
+Github Project for Computer Graphic Class @Dongseo University ^^
 <h1 align="center"> Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋 </h1>
 <br>
 <div align="center">
