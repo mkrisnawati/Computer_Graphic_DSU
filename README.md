@@ -44,9 +44,9 @@ to implementing drawLine function with drawPoint
 - Github: [@mkrisnawati](https://github.com/mkrisnawati)
 - Medium: (https://melisakrisnawati.medium.com/)
 
+![](https://www.icegif.com/wp-content/uploads/2023/04/icegif-1248.gif)
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-![](https://www.icegif.com/wp-content/uploads/2023/04/icegif-1248.gif)
 </div>
 <hr>
 </div>
