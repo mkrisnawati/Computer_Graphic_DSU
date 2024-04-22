@@ -40,8 +40,8 @@ to implementing drawLine function with drawPoint
   to see the file name is "test 5 cubic bezier.py" 
 
 ## Author
-👤 **Krisnawati Melisa**
 <img src="[https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif](https://www.icegif.com/kyojuro-rengoku-46/)" align="right">
+👤 **Krisnawati Melisa**
 - Github: [@mkrisnawati](https://github.com/mkrisnawati)
 - Medium: (https://melisakrisnawati.medium.com/)
 
