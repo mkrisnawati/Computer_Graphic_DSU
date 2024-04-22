@@ -1,7 +1,7 @@
 <h1 align="center"> Github Project for Computer Graphic Class @Dongseo University ^^ </h1>
 ![](https://www.icegif.com/wp-content/uploads/2023/04/icegif-1253.gif)
 
->   Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋 
+Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋 
 가자 !!! ( ﾉ ﾟｰﾟ)ﾉ <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
 
 ## ✨ Homework 1: Implement Draw Polygon
