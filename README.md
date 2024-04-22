@@ -1,4 +1,4 @@
-![](https://www.icegif.com/wp-content/uploads/2023/04/icegif-1253.gif)
+<img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1253.gif" width="50">
 <h1 align="center"> Github Project for Computer Graphic Class @Dongseo University ^^ </h1>
 
 <h2 align="left"> Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋 </h2> 
