@@ -22,11 +22,10 @@ to implementing drawLine function with drawPoint
 
 ## ✨ Homework 4-7
 [![](https://img.youtube.com/vi/Pyh4Ic3rUQY/0.jpg)](https://youtu.be/Pyh4Ic3rUQY "Just tap this!")
-<h4 align="left">Homework 4: Implement Lagrange Interpolation 
-Homework 5: Implement Cubic Bezier
-Homework 6: Implement Cubic Hermite Interpolation 
-Homework 7: Implement Cubic B-spline </h4>
-
+<h4 align="left">Homework 4: Implement Lagrange Interpolation </h4>
+<h4 align="left">Homework 5: Implement Cubic Bezier </h4>
+<h4 align="left">Homework 6: Implement Cubic Hermite Interpolation </h4>
+<h4 align="left">Homework 7: Implement Cubic B-spline </h4>
 
 ## 📝 Other test learning making
 [![](https://img.youtube.com/vi/RfEAGcweBu0/0.jpg)](https://youtu.be/RfEAGcweBu0 "Just tap this!")
