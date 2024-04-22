@@ -1,10 +1,10 @@
 <h1 align="center">Github Project for Computer Graphic Class @Dongseo University ^^</h1>
 
-Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋
+> Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋
 
 ## ✨ Homework 1: Implement Draw Polygon
-<h4 align="left"> it is about how to draw the polygon using the pygame </h4>
 [![](https://img.youtube.com/vi/6j8kaQvEtxg/0.jpg)](https://youtu.be/6j8kaQvEtxg "Just tap this!")
+<h4 align="left"> it is about how to draw the polygon using the pygame </h4>
 
 ## ✨ Homework 2A part 1: Implement drawLine function with drawPoint 
 <h4 align="left">By using this formula y = (y1-y0)/(x1-x0)*(x-x0)+y0
@@ -37,8 +37,4 @@ video tes bezier animation
 👤 **Krisnawati Melisa**
 - Github: [@mkrisnawati](https://github.com/mkrisnawati)
 - Medium: (https://melisakrisnawati.medium.com/)
-
-
-
-[![](https://img.youtube.com/vi/6j8kaQvEtxg/0.jpg)](https://youtu.be/6j8kaQvEtxg "Just tap this!")
 
