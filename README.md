@@ -1,5 +1,7 @@
 <h1 align="center">Github Project for Computer Graphic Class @Dongseo University ^^</h1>
 
+[![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkimetsu-no-yaiba.fandom.com%2Ff%2Fp%2F4400000000000086855&psig=AOvVaw1M9Pre7fOHbN2pwsovFKBB&ust=1713846317876000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCa35_91IUDFQAAAAAdAAAAABAE)]
+
 > Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋
 
 가자 !!! ( ﾉ ﾟｰﾟ)ﾉ <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
