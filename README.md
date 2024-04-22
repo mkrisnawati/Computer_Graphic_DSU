@@ -1,6 +1,7 @@
 <h1 align="center">Github Project for Computer Graphic Class @Dongseo University ^^</h1>
 
 > Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋
+![]([./content/public/rengoku_banner.webp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkimetsu-no-yaiba.fandom.com%2Ff%2Fp%2F4400000000000086855&psig=AOvVaw1M9Pre7fOHbN2pwsovFKBB&ust=1713846317876000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCa35_91IUDFQAAAAAdAAAAABAE))
 
 ## ✨ Homework 1: Implement Draw Polygon
 [![](https://img.youtube.com/vi/6j8kaQvEtxg/0.jpg)](https://youtu.be/6j8kaQvEtxg "Just tap this!")
@@ -47,5 +48,5 @@ to implementing drawLine function with drawPoint
 <h2 align="left"> ~ Menyala Abangkuhh! ~ </h2>
 
 ![](https://www.icegif.com/wp-content/uploads/2023/04/icegif-1248.gif)
-<h2 align="left">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2> Menyala abangkuuuhhh~~
+<h2 align="left">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 
