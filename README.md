@@ -1,8 +1,7 @@
-<img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1253.gif" width="50">
 <h1 align="center"> Github Project for Computer Graphic Class @Dongseo University ^^ </h1>
 
 <h2 align="left"> Welcome to my Github Repository that posting for Computer Graphic's Projects @DSU 👋 </h2> 
-가자 !!! ( ﾉ ﾟｰﾟ)ﾉ <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60">
+가자 !!! ( ﾉ ﾟｰﾟ)ﾉ <img src="https://media.giphy.com/media/kkQsJyJBMZsk0/giphy.gif" width="60"> <img src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-1253.gif" width="100" align="right">
 
 ## ✨ Homework 1: Implement Draw Polygon
 [![](https://img.youtube.com/vi/6j8kaQvEtxg/0.jpg)](https://youtu.be/6j8kaQvEtxg "Just tap this!")
