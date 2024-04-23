@@ -35,7 +35,7 @@ to implementing drawLine function with drawPoint
   to see the file name is "test 4 langrage.py" </h3>
 
 ## 📝 Other test learn to make bezier animation
-[![](https://img.youtube.com/vi/RfEAGcweBu0/0.jpg)](https://youtu.be/RfEAGcweBu0 "Just tap this!")
+[![](https://img.youtube.com/vi/Y_nTJI-6V78/0.jpg)](https://youtu.be/Y_nTJI-6V78 "Just tap this!")
 <h3 align="left"> Test making animation bezier in the graph
 > you can tap the video down here to see the result 
   to see the file name is "test 5 cubic bezier.py" 
