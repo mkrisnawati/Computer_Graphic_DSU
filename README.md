@@ -28,13 +28,13 @@ to implementing drawLine function with drawPoint
 <h4 align="left">Homework 6: Implement Cubic Hermite Interpolation </h4>
 <h4 align="left">Homework 7: Implement Cubic B-spline </h4>
 
-## 📝 Other test learn to make langrage in graph
+## 📝 Other experiment (test learn to make langrage in graph)
 [![](https://img.youtube.com/vi/RfEAGcweBu0/0.jpg)](https://youtu.be/RfEAGcweBu0 "Just tap this!")
 <h3 align="left"> Test making Langrage interpolation in the graph
 > you can tap the video down to see the result 
   to see the file name is "test 4 langrage.py" </h3>
 
-## 📝 Other test learn to make bezier animation
+## 📝 Other experiment (test learn to make bezier animation)
 [![](https://img.youtube.com/vi/Y_nTJI-6V78/0.jpg)](https://youtu.be/Y_nTJI-6V78 "Just tap this!")
 <h3 align="left"> Test making animation bezier in the graph
 > you can tap the video down here to see the result 
