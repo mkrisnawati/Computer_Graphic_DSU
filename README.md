@@ -40,6 +40,12 @@ to implementing drawLine function with drawPoint
 > you can tap the video down here to see the result 
   to see the file name is "test 5 cubic bezier.py" 
 
+## 📝 Other experiment (test learn to make b spline)
+[![](https://img.youtube.com/vi/qaRJkulneSs/0.jpg)](https://youtu.be/qaRJkulneSs "Just tap this!")
+<h3 align="left"> Test making b spliner in the graph
+> you can tap the video down here to see the result 
+  to see the file name is "test 7 b spline.py" 
+
 ## Author
 👤 **Krisnawati Melisa**
 - Github: [@mkrisnawati](https://github.com/mkrisnawati)
